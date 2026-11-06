@@ -367,3 +367,8 @@ img{
     height: auto;
     object-fit: contain;
 }
+
+.activity-card .badge {
+    background-color: var(--primary) !important;
+    color: var(--bg) !important;
+}
